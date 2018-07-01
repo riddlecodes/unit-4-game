@@ -32,3 +32,32 @@ body {
     float: left;
     margin: 15px;
 }
+
+#myNumber {
+    clear: both;
+    font-size: 50px;
+    margin: 25px;
+    background-color: lightseagreen;
+    width: 200px;
+    padding: 20px;
+}
+
+#score {
+    clear: both;
+    font-size: 16px;
+    color: white;
+    margin: 15px;
+    background-color: lightseagreen;
+    width: 200px;
+    padding: 10px;
+}
+
+#final-score {
+    clear: both;
+    color: white;
+    font-size: 50px;
+    margin: 25px;
+    background-color: lightseagreen;
+    width: 200px;
+    padding: 20px;
+}
