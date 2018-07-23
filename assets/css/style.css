@@ -42,6 +42,18 @@ body {
     padding: 20px;
 }
 
+.win-and-lose
+
+{
+    clear: both;
+    font-size: 16px;
+    color: white;
+    margin: 15px;
+    background-color: lightseagreen;
+    width: 200px;
+    padding: 10px;
+}
+
 #score {
     clear: both;
     font-size: 16px;
